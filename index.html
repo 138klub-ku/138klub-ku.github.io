@@ -52,7 +52,7 @@
 <meta name="viewport" content="width=device-width">
 <meta content="138KLUB menghadirkan panduan strategi jitu untuk pola bermain game online yang lebih stabil. Optimalkan pengalaman gaming Anda dengan sistem profesional dan transaksi kilat 2026. Daftar di situs paling bonafit 138KLUB hari ini." name="description"/>
 <link rel="prefetch" href="https://138klub-ku.github.io/" as="document"/>
-<link rel="amphtml" href="https://amp-mariowin.onrender.com" /> 
+<link rel="amphtml" href="https://138klub-ku.pages.dev/" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
 <meta name="author" content="SEO ACIL">
@@ -674,7 +674,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 
                                         <!-- play icon -->
                     <div class="menu-item menu-plus">
-	                    <a href="https://shortclick.info/138klub/" class="button-default active" role="link" id="menu-plus" aria-label="SEO ACIL">
+	                    <a href="https://138klub-ku.pages.dev/" class="button-default active" role="link" id="menu-plus" aria-label="SEO ACIL">
 	                        <span class="icon-svg icon-plus" aria-hidden="true">
 	                            <img src="https://asset.kompas.com/data/2025/03/05/1535/icon-kplus.gif" alt="Icon Kompascom+">
 	                        </span>
@@ -684,7 +684,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                     <div class="sso__header col-bs12-4">
                         <ul class="sso__wrap">
                             <li class="sso__item">
-                                <a class="sso__link sso__link__icon js-sso-user" href="https://shortclick.info/138klub/" rel="nofollow">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://138klub-ku.pages.dev/" rel="nofollow">
                                     <i class="sso__icon__login" id="sso__icon__login_top"></i>
                                     <i class="sso__badge" style="display: none;"></i>
                                 </a>
@@ -703,7 +703,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                             </a>
                                         </li> -->
                         
-                                                                                    <li><a href="https://shortclick.info/138klub/"><span><i class="sso__icon__subscription"></i> Join Bersama SEO ACIL<i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://138klub-ku.pages.dev/"><span><i class="sso__icon__subscription"></i> Join Bersama SEO ACIL<i class="sso__badge__inline"></i></span></a></li>
                                                                                 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -719,7 +719,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="https://shortclick.info/138klub/" rel="nofollow" class="kid__button">LINK ALTERNATIF</a>
+                        <a target="_blank" href="https://138klub-ku.pages.dev/" rel="nofollow" class="kid__button">LINK ALTERNATIF</a>
                     </div>
                                     </div>
             </div>
@@ -1514,7 +1514,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://shortclick.info/138klub/" rel="nofollow"class="menu-plus-sticky">Membership SEO ACIL</a>
+<a href="https://138klub-ku.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership SEO ACIL</a>
 
 <!-- css sublink nav -->
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
@@ -1865,7 +1865,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     
     <nav class="rgb-nav-panel" role="navigation" aria-label="Akses Akun Game">
         
-        <a class="rgb-btn btn-login" href="https://shortclick.info/138klub/" title="Masuk ke Akun Member" rel="nofollow">
+        <a class="rgb-btn btn-login" href="https://138klub-ku.pages.dev/" title="Masuk ke Akun Member" rel="nofollow">
             <div class="rgb-content">
                 <svg class="rgb-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                     <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
@@ -1877,7 +1877,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
             </div>
         </a>
     
-        <a class="rgb-btn btn-register" href="https://shortclick.info/138klub/" title="Daftar Akun Baru" rel="nofollow">
+        <a class="rgb-btn btn-register" href="https://138klub-ku.pages.dev/" title="Daftar Akun Baru" rel="nofollow">
             <div class="rgb-content">
                 <svg class="rgb-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
                     <path d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V8h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm4-3c-.83 0-1.5-.67-1.5-1.5S18.67 9 19.5 9s1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/>
@@ -1991,31 +1991,31 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     <div class="most__wrap clearfix">
         <div class="most__list  clearfix"> 
     <div class="most__count">1</div>
-        <a class="most__link" href="https://shortclick.info/138klub/">
+        <a class="most__link" href="https://138klub-ku.pages.dev/">
         <div class="most__title">Di PTBI 2025, BI Tegaskan Pentingnya Stabilitas Makro dan Transformasi Ekonomi</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">2</div>
-        <a class="most__link" href="https://shortclick.info/138klub/">
+        <a class="most__link" href="https://138klub-ku.pages.dev/">
         <div class="most__title">Jadwal Siaran Langsung Timnas Putri Indonesia Vs Thailand di SEA Games 2025</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">3</div>
-        <a class="most__link" href="https://shortclick.info/138klub/">
+        <a class="most__link" href="https://138klub-ku.pages.dev/">
         <div class="most__title">Gunung Marapi di Sumbar Meletus, PVMBG Jelaskan Kondisi Terkini</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">4</div>
-        <a class="most__link" href="https://shortclick.info/138klub/">
+        <a class="most__link" href="https://138klub-ku.pages.dev/">
         <div class="most__title">Cuaca Ekstrem Hingga Februari 2026, Ini Cara Cek Titik Banjir Pakai HP</div> 
             </a>
 </div>
 <div class="most__list  clearfix"> 
     <div class="most__count">5</div>
-        <a class="most__link" href="https://shortclick.info/138klub/">
+        <a class="most__link" href="https://138klub-ku.pages.dev/">
         <div class="most__title">Eyang Narto, Sang Penjaga Kelestarian Pepohonan sejak 1973 di UKSW</div> 
             </a>
 </div>
@@ -2268,7 +2268,7 @@ btn.classList.toggle("active")
                         Raih kemenagan dan jackpot besar melalui situs togel online di SEO ACIL</div>
 
                     <div class="footerNewsletter-cta">
-                        <a href="https://shortclick.info/138klub/"class="footerNewsletter-link" rel="nofollow">
+                        <a href="https://138klub-ku.pages.dev/"class="footerNewsletter-link" rel="nofollow">
                             <i class="iconNewsletter"></i> DAFTAR
                         </a>
                     </div>
@@ -3254,10 +3254,10 @@ if (onSubmitNps !== null) {
                 <div class="kgmModal-footer">
                     <div class="form-row-big">
                         <div class="form-row">
-                            <a href="https://shortclick.info/138klub/" class="button -transparent" id="kgmModal-btn-dismiss" data-event-category="popup_boostnotification" data-event-action="close_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nanti lagi</a>
+                            <a href="https://138klub-ku.pages.dev/" class="button -transparent" id="kgmModal-btn-dismiss" data-event-category="popup_boostnotification" data-event-action="close_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nanti lagi</a>
                         </div>
                         <div class="form-row">
-                            <a href="https://shortclick.info/138klub/" class="button -primary" id="kgmModal-btn-notif" data-event-category="popup_boostnotification" data-event-action="click_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nyalakan</a>
+                            <a href="https://138klub-ku.pages.dev/" class="button -primary" id="kgmModal-btn-notif" data-event-category="popup_boostnotification" data-event-action="click_popup_boostnotif" data-event-label="popup_boostnotif" data-event-track="click">Nyalakan</a>
                         </div>
                     </div>
                 </div>
